@@ -45,6 +45,12 @@ Professional certifications, course completions, and cybersecurity training achi
 
 My current cybersecurity resume and professional documents.
 
+### Security Controls
+
+* Least Privilege Data Leak Analysis
+* Access control review using NIST SP 800-53 AC-6.
+
+    
 ## Skills Demonstrated
 
 * Security Auditing
