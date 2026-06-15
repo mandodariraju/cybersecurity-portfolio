@@ -1,46 +1,41 @@
 # Cybersecurity Portfolio
 
-Welcome to my Cybersecurity Portfolio. This repository showcases my cybersecurity learning journey, hands-on projects, security assessments, incident response activities, and practical skills developed through coursework, labs, and independent study.
+Welcome to my cybersecurity portfolio. This repository showcases my cybersecurity learning journey, hands-on projects, security assessments, risk analysis activities, and incident response documentation.
 
 ## About Me
 
-I am a BTech Cybersecurity student passionate about protecting digital systems and continuously developing my skills in cybersecurity, networking, Linux, SQL, incident response, risk assessment, and security analysis. I enjoy learning through hands-on projects and applying industry-recognized frameworks and best practices to real-world security scenarios.
+I am a BTech Cybersecurity student passionate about protecting digital systems and continuously developing my skills in cybersecurity, networking, Linux, SQL, risk management, incident response, and security analysis. I enjoy learning through practical projects and applying industry frameworks to real-world security scenarios.
 
 ## Portfolio Sections
 
 ### Professional Statement
 
-My professional statement outlining my strengths, values, cybersecurity interests, and career goals.
+My professional background, strengths, values, and career goals in cybersecurity.
 
 ### Security Audits
 
 * Botium Toys Security Audit
-* Risk assessment and compliance evaluation
-* Security controls analysis and recommendations
+* Risk assessment and compliance analysis using security controls and industry best practices.
 
 ### Incident Response
 
 * DoS Incident Report Analysis
-* Security incident investigation using the NIST Cybersecurity Framework (CSF)
-* Network security event analysis and response planning
+* Incident analysis using the NIST Cybersecurity Framework (CSF).
+
+### Risk Management
+
+* Bank Risk Register Analysis
+* Risk identification, assessment, prioritization, and mitigation recommendations.
 
 ### Linux Labs
 
-* Linux file and directory permissions management
-* System administration exercises
-* Security-focused Linux command-line activities
+* APT Package Management Lab
+* Linux File Permissions Analysis
+* Hands-on Linux administration and security exercises.
 
 ### SQL Projects
 
-* Security-focused SQL investigations
-* Query filtering and analysis
-* Data investigation and reporting exercises
-
-### Asset Management and Classification
-
-* Home Network Asset Inventory and Classification
-* Asset sensitivity analysis
-* Access control and data classification exercises
+Security-focused SQL investigations, filtering techniques, and query analysis projects.
 
 ### Certificates
 
@@ -54,16 +49,17 @@ My current cybersecurity resume and professional documents.
 
 * Security Auditing
 * Risk Assessment
+* Risk Management
+* Compliance Analysis
 * Incident Response
-* Asset Management and Classification
-* Access Control
 * NIST Cybersecurity Framework (CSF)
 * Network Security Fundamentals
 * Linux Administration
+* File Permission Management
+* Package Management (APT)
 * SQL Query Analysis
 * Security Documentation
-* Compliance Assessment
-* Vulnerability Identification
+* Security Monitoring
 
 ## Current Learning
 
@@ -71,16 +67,15 @@ My current cybersecurity resume and professional documents.
 * Linux Fundamentals
 * Network Security
 * SQL for Security Analysis
-* Incident Response and Threat Detection
-* AI and Cybersecurity Applications
+* Risk Management
+* AI + Cybersecurity
 
 ## Goals
 
 * Build practical cybersecurity skills
-* Complete industry-recognized certifications
+* Complete industry certifications
 * Develop hands-on security projects
 * Prepare for cybersecurity internships and entry-level roles
 * Build AI-powered cybersecurity solutions
-* Continue expanding my cybersecurity portfolio with real-world projects
 
 
