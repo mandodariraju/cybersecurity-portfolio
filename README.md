@@ -55,6 +55,12 @@ Professional certifications, course completions, and cybersecurity training achi
 
 My current cybersecurity resume and professional documents.
 
+### Vulnerability Assessment
+
+* Vulnerability Assessment Report
+* Risk analysis of a publicly accessible database server using NIST SP 800-30.
+* Includes threat identification, risk scoring, and remediation recommendations.
+
 ## Skills Demonstrated
 
 * Security Auditing
@@ -75,6 +81,10 @@ My current cybersecurity resume and professional documents.
 * SQL Query Analysis
 * Security Documentation
 * Security Monitoring
+* Vulnerability Assessment
+* Risk Analysis
+* Threat Modeling
+* NIST SP 800-30
 
 ## Current Learning
 
