@@ -1,11 +1,11 @@
 # Incident Response
 
-This folder contains incident response investigations, security incident documentation, and analysis of cybersecurity events using industry-standard methodologies.
+This folder contains incident response investigations and security incident analysis activities based on real-world cybersecurity scenarios and industry best practices.
 
-Projects in this folder include:
+## Projects
 
 * **DoS-Incident-Report.md** – Analysis of a Denial-of-Service (DoS) attack using the NIST Cybersecurity Framework (CSF).
-* **Incident-Handler-Journal.md** – Incident documentation and investigation of a ransomware attack on a healthcare organization using the 5 W's methodology.
+* **Ransomware-Incident-Journal.md** – Documentation and investigation of a ransomware incident affecting a healthcare organization using the 5 W's incident analysis methodology.
 
 ## Skills Demonstrated
 
@@ -16,9 +16,8 @@ Projects in this folder include:
 * Phishing Investigation
 * Incident Reporting
 * Root Cause Analysis
-* NIST Cybersecurity Framework (CSF)
-* Security Awareness Concepts
-* Threat Identification
+* Security Awareness Analysis
 * Cybersecurity Communication
+* NIST Cybersecurity Framework (CSF)
 
-These activities demonstrate my ability to analyze cybersecurity incidents, document findings, identify attack methods, and apply structured incident response practices used by security professionals.
+These projects demonstrate my ability to investigate cybersecurity incidents, document findings, identify attack vectors, and apply structured incident response practices used by cybersecurity professionals.
