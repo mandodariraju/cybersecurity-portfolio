@@ -64,6 +64,12 @@ Professional certifications, course completions, and cybersecurity training achi
 
 My current cybersecurity resume and professional documents.
 
+### Threat Modeling
+
+* PASTA Threat Model Framework Analysis
+* Security assessment of a mobile sneaker marketplace application.
+* Identification of business objectives, threats, vulnerabilities, attack vectors, and security controls using the PASTA methodology.
+
 ## Skills Demonstrated
 
 * Security Auditing
