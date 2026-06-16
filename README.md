@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio. This repository showcases my cybersecurity learning journey, hands-on projects, security assessments, risk analysis activities, incident response investigations, and security control evaluations.
+Welcome to my cybersecurity portfolio. This repository showcases my cybersecurity learning journey, hands-on projects, security assessments, risk analysis activities, incident response investigations, vulnerability assessments, and security control evaluations.
 
 ## About Me
 
@@ -29,23 +29,32 @@ My professional background, strengths, values, and career goals in cybersecurity
 
 ### Asset Management and Classification
 
-* Asset Classification Exercise
+* Home Network Asset Inventory and Classification
 * Asset inventory and classification based on organizational security requirements.
 
 ### Linux Labs
 
-* Linux File Permissions Analysis
-* Hands-on Linux administration and security exercises.
+* File Permissions in Linux
+* File Integrity Verification Using SHA-256
+* Hands-on Linux administration, file security, hashing, and integrity verification exercises.
 
 ### SQL Projects
 
-Security-focused SQL investigations, filtering techniques, and query analysis projects.
+* Apply Filters to SQL Queries
+* Security-focused SQL investigations, filtering techniques, and query analysis projects.
 
 ### Security Controls
 
 * Least Privilege Data Leak Analysis
 * Access Control Incident Investigation
-* Access control reviews using NIST SP 800-53 security control principles.
+* USB Attack Vector Analysis
+* Access control reviews, threat analysis, and security control evaluations using NIST SP 800-53 security control principles.
+
+### Vulnerability Assessment
+
+* Vulnerability Assessment Report
+* Risk analysis of a publicly accessible database server using NIST SP 800-30.
+* Includes threat identification, risk scoring, and remediation recommendations.
 
 ### Certificates
 
@@ -55,12 +64,6 @@ Professional certifications, course completions, and cybersecurity training achi
 
 My current cybersecurity resume and professional documents.
 
-### Vulnerability Assessment
-
-* Vulnerability Assessment Report
-* Risk analysis of a publicly accessible database server using NIST SP 800-30.
-* Includes threat identification, risk scoring, and remediation recommendations.
-
 ## Skills Demonstrated
 
 * Security Auditing
@@ -68,6 +71,10 @@ My current cybersecurity resume and professional documents.
 * Risk Management
 * Compliance Analysis
 * Incident Response
+* Vulnerability Assessment
+* Threat Modeling
+* Threat Analysis
+* Attack Vector Analysis
 * Access Control Analysis
 * Authentication and Authorization
 * Identity and Access Management (IAM)
@@ -75,16 +82,17 @@ My current cybersecurity resume and professional documents.
 * Security Controls Evaluation
 * Event Log Analysis
 * Asset Management and Classification
-* NIST Cybersecurity Framework (CSF)
+* Security Monitoring
+* Social Engineering Awareness
+* Cryptographic Hashing (SHA-256)
+* File Integrity Verification
 * Linux Administration
 * File Permission Management
 * SQL Query Analysis
 * Security Documentation
-* Security Monitoring
-* Vulnerability Assessment
-* Risk Analysis
-* Threat Modeling
+* NIST Cybersecurity Framework (CSF)
 * NIST SP 800-30
+* NIST SP 800-53
 
 ## Current Learning
 
@@ -93,7 +101,7 @@ My current cybersecurity resume and professional documents.
 * Network Security
 * SQL for Security Analysis
 * Risk Management
-* Security Operations (SOC) Fundamentals
+* Security Operations Center (SOC) Fundamentals
 * AI + Cybersecurity
 
 ## Goals
@@ -108,14 +116,21 @@ My current cybersecurity resume and professional documents.
 ## Tools and Technologies
 
 * Linux
+* Bash Shell
 * SQL
-* Git & GitHub
+* Git
+* GitHub
+* SHA-256 Hashing
 * Security Information and Event Management (SIEM) Concepts
 * Network Security Tools
 * Risk Assessment Methodologies
 * NIST Cybersecurity Framework (CSF)
 * NIST SP 800-53 Security Controls
 
+## Portfolio Purpose
 
+This portfolio documents my progress as I develop cybersecurity knowledge and practical skills through hands-on labs, risk assessments, security investigations, vulnerability analysis, Linux administration, SQL querying, and security control evaluations. Each project demonstrates my ability to analyze security problems, apply cybersecurity concepts, and communicate findings through professional documentation.
+
+---
 
 Thank you for visiting my portfolio. This repository will continue to grow as I complete new cybersecurity projects, certifications, and hands-on learning activities.
