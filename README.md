@@ -70,6 +70,12 @@ My current cybersecurity resume and professional documents.
 * Security assessment of a mobile sneaker marketplace application.
 * Identification of business objectives, threats, vulnerabilities, attack vectors, and security controls using the PASTA methodology.
 
+### Incident Response
+
+* DoS Incident Report Analysis
+* Ransomware Incident Journal
+* Incident analysis using the NIST Cybersecurity Framework (CSF) and the 5 W's investigation methodology.
+
 ## Skills Demonstrated
 
 * Security Auditing
