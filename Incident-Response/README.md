@@ -4,8 +4,9 @@ This folder contains incident response investigations and security incident anal
 
 ## Projects
 
-* **DoS-Incident-Report.md** – Analysis of a Denial-of-Service (DoS) attack using the NIST Cybersecurity Framework (CSF).
-* **Ransomware-Incident-Journal.md** – Documentation and investigation of a ransomware incident affecting a healthcare organization using the 5 W's incident analysis methodology.
+**DoS-Incident-Report.md** – Analysis of a Denial-of-Service (DoS) attack using the NIST Cybersecurity Framework (CSF).
+**Ransomware-Incident-Journal.md** – Documentation and investigation of a ransomware incident affecting a healthcare organization using the 5 W's incident analysis methodology.
+**Phishing-Incident-Response.md** – Investigation of a phishing alert involving a malicious attachment, playbook-based analysis, and ticket escalation procedures.
 
 ## Skills Demonstrated
 
