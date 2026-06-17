@@ -79,9 +79,11 @@ My current cybersecurity resume and professional documents.
 ### Threat Intelligence
 
 * Pyramid of Pain Malware Analysis
-* Malware investigation using VirusTotal and Indicators of Compromise (IoCs).
-* Threat intelligence analysis using the Pyramid of Pain framework.
+* Malware analysis using VirusTotal and Indicators of Compromise (IoCs).
+* Threat intelligence investigation focused on identifying malicious artifacts and attacker techniques.
+* Analysis using the Pyramid of Pain framework to prioritize effective detection and defensive measures.
 
+  
 ## Skills Demonstrated
 
 * Security Auditing
