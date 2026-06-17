@@ -76,6 +76,12 @@ My current cybersecurity resume and professional documents.
 * Ransomware Incident Journal
 * Incident analysis using the NIST Cybersecurity Framework (CSF) and the 5 W's investigation methodology.
 
+### Threat Intelligence
+
+* Pyramid of Pain Malware Analysis
+* Malware investigation using VirusTotal and Indicators of Compromise (IoCs).
+* Threat intelligence analysis using the Pyramid of Pain framework.
+
 ## Skills Demonstrated
 
 * Security Auditing
