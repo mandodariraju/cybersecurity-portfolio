@@ -83,6 +83,13 @@ My current cybersecurity resume and professional documents.
 * Threat intelligence investigation focused on identifying malicious artifacts and attacker techniques.
 * Analysis using the Pyramid of Pain framework to prioritize effective detection and defensive measures.
 
+   ## Python Automation
+
+* Algorithm for File Updates in Python
+* Automated allow list management using Python
+* File handling, list manipulation, loops, and conditional logic
+* Security-focused automation for access control management
+
   
 ## Skills Demonstrated
 
