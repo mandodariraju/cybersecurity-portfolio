@@ -1,163 +1,186 @@
 # Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio. This repository showcases my cybersecurity learning journey, hands-on projects, security assessments, risk analysis activities, incident response investigations, vulnerability assessments, and security control evaluations.
+Welcome to my Cybersecurity Portfolio. This repository documents my hands-on cybersecurity projects, security assessments, incident investigations, risk analyses, threat modeling activities, and automation projects completed throughout my cybersecurity learning journey.
 
 ## About Me
 
-I am a BTech Cybersecurity student passionate about protecting digital systems and continuously developing my skills in cybersecurity, networking, Linux, SQL, risk management, incident response, security controls, and security analysis. I enjoy learning through practical projects and applying industry frameworks and best practices to real-world security scenarios.
+I am a B.Tech Cybersecurity student with a strong interest in Security Operations (SOC), Incident Response, Threat Detection, Risk Management, and Security Analysis. I enjoy applying cybersecurity concepts through practical projects and continuously developing my skills in Linux, SQL, Python, networking, and security operations.
+
+---
 
 ## Portfolio Sections
 
 ### Professional Statement
 
-My professional background, strengths, values, and career goals in cybersecurity.
+My cybersecurity background, professional values, strengths, and career goals.
 
 ### Security Audits
 
 * Botium Toys Security Audit
-* Risk assessment and compliance analysis using security controls and industry best practices.
+* Security control reviews
+* Compliance assessments
+* Risk and remediation analysis
 
 ### Incident Response
 
-* DoS Incident Report Analysis
-* Incident analysis using the NIST Cybersecurity Framework (CSF).
-
-### Risk Assessments
-
-* Bank Risk Register Analysis
-* Risk identification, assessment, prioritization, and mitigation recommendations.
-
-### Asset Management and Classification
-
-* Home Network Asset Inventory and Classification
-* Asset inventory and classification based on organizational security requirements.
-
-### Linux Labs
-
-* File Permissions in Linux
-* File Integrity Verification Using SHA-256
-* Hands-on Linux administration, file security, hashing, and integrity verification exercises.
-
-### SQL Projects
-
-* Apply Filters to SQL Queries
-* Security-focused SQL investigations, filtering techniques, and query analysis projects.
-
-### Security Controls
-
-* Least Privilege Data Leak Analysis
-* Access Control Incident Investigation
-* USB Attack Vector Analysis
-* Access control reviews, threat analysis, and security control evaluations using NIST SP 800-53 security control principles.
+* DoS Incident Report
+* Phishing Incident Response
+* Ransomware Incident Investigation
+* Data Breach Final Report Analysis
 
 ### Vulnerability Assessment
 
-* Vulnerability Assessment Report
-* Risk analysis of a publicly accessible database server using NIST SP 800-30.
-* Includes threat identification, risk scoring, and remediation recommendations.
+* Vulnerability Assessment and Risk Analysis
+* NIST SP 800-30 based risk assessment
+* Threat identification and remediation planning
 
-### Certificates
+### Risk Assessment
 
-Professional certifications, course completions, and cybersecurity training achievements.
+* Bank Risk Register Analysis
+* Risk identification and prioritization
+* Risk mitigation recommendations
 
-### Resume
+### Security Controls
 
-My current cybersecurity resume and professional documents.
+* Least Privilege Analysis
+* Access Control Investigations
+* USB Attack Vector Analysis
+* Security control evaluations using NIST SP 800-53 principles
 
 ### Threat Modeling
 
 * PASTA Threat Model Framework Analysis
-* Security assessment of a mobile sneaker marketplace application.
-* Identification of business objectives, threats, vulnerabilities, attack vectors, and security controls using the PASTA methodology.
-
-### Incident Response
-
-* DoS Incident Report Analysis
-* Ransomware Incident Journal
-* Incident analysis using the NIST Cybersecurity Framework (CSF) and the 5 W's investigation methodology.
+* Mobile application threat assessment
+* Attack vector identification and risk evaluation
 
 ### Threat Intelligence
 
-* Pyramid of Pain Malware Analysis
-* Malware analysis using VirusTotal and Indicators of Compromise (IoCs).
-* Threat intelligence investigation focused on identifying malicious artifacts and attacker techniques.
-* Analysis using the Pyramid of Pain framework to prioritize effective detection and defensive measures.
+* Pyramid of Pain Analysis
+* VirusTotal investigations
+* IOC analysis
+* Malware research activities
 
-   ## Python Automation
+### Asset Management and Classification
+
+* Home Network Asset Inventory and Classification
+* Asset sensitivity classification
+* Access control evaluation
+
+### Linux Labs
+
+* Linux File Permissions
+* SHA-256 File Integrity Verification
+* Linux administration and security exercises
+
+### SQL Projects
+
+* Security-focused SQL Queries
+* Data filtering and analysis
+* Database investigation exercises
+
+### Python Automation
 
 * Algorithm for File Updates in Python
-* Automated allow list management using Python
-* File handling, list manipulation, loops, and conditional logic
-* Security-focused automation for access control management
+* Access control automation
+* File handling and security scripting
 
-  
-## Skills Demonstrated
+### Certificates
 
-* Security Auditing
-* Risk Assessment
-* Risk Management
-* Compliance Analysis
-* Incident Response
-* Vulnerability Assessment
-* Threat Modeling
-* Threat Analysis
-* Attack Vector Analysis
-* Access Control Analysis
-* Authentication and Authorization
-* Identity and Access Management (IAM)
-* Principle of Least Privilege (PoLP)
-* Security Controls Evaluation
-* Event Log Analysis
-* Asset Management and Classification
-* Security Monitoring
-* Social Engineering Awareness
-* Cryptographic Hashing (SHA-256)
-* File Integrity Verification
-* Linux Administration
-* File Permission Management
-* SQL Query Analysis
-* Security Documentation
-* NIST Cybersecurity Framework (CSF)
-* NIST SP 800-30
-* NIST SP 800-53
+Professional certifications and cybersecurity training achievements.
 
-## Current Learning
+### Resume
 
-* Google Cybersecurity Professional Certificate
-* Linux Fundamentals
-* Network Security
-* SQL for Security Analysis
-* Risk Management
-* Security Operations Center (SOC) Fundamentals
-* AI + Cybersecurity
-
-## Goals
-
-* Build practical cybersecurity skills
-* Complete industry-recognized certifications
-* Develop hands-on security projects
-* Prepare for cybersecurity internships and entry-level analyst roles
-* Build AI-powered cybersecurity solutions
-* Contribute to open-source cybersecurity projects
-
-## Tools and Technologies
-
-* Linux
-* Bash Shell
-* SQL
-* Git
-* GitHub
-* SHA-256 Hashing
-* Security Information and Event Management (SIEM) Concepts
-* Network Security Tools
-* Risk Assessment Methodologies
-* NIST Cybersecurity Framework (CSF)
-* NIST SP 800-53 Security Controls
-
-## Portfolio Purpose
-
-This portfolio documents my progress as I develop cybersecurity knowledge and practical skills through hands-on labs, risk assessments, security investigations, vulnerability analysis, Linux administration, SQL querying, and security control evaluations. Each project demonstrates my ability to analyze security problems, apply cybersecurity concepts, and communicate findings through professional documentation.
+Cybersecurity resume and professional career documents.
 
 ---
 
-Thank you for visiting my portfolio. This repository will continue to grow as I complete new cybersecurity projects, certifications, and hands-on learning activities.
+## Technical Skills
+
+### Security Operations
+
+* Incident Response
+* Threat Detection
+* Security Monitoring
+* Event Analysis
+* Threat Intelligence
+* Security Documentation
+
+### Risk & Governance
+
+* Security Auditing
+* Risk Assessment
+* Compliance Analysis
+* Vulnerability Assessment
+* Security Controls Evaluation
+
+### Networking
+
+* TCP/IP
+* DNS
+* HTTP/HTTPS
+* Packet Analysis
+* Network Security Fundamentals
+
+### Operating Systems
+
+* Linux
+* Windows
+
+### Programming & Querying
+
+* Python
+* SQL
+
+### Tools & Technologies
+
+* Wireshark
+* VirusTotal
+* Git
+* GitHub
+* Linux CLI
+* SHA-256 Hashing
+* SIEM Concepts
+
+### Frameworks & Methodologies
+
+* NIST Cybersecurity Framework (CSF)
+* NIST SP 800-30
+* NIST SP 800-53
+* PASTA Threat Modeling Framework
+
+---
+
+## Certifications
+
+* Google Cybersecurity Professional Certificate
+* Foundations of Cybersecurity
+* Play It Safe: Manage Security Risks
+* Connect and Protect: Networks and Network Security
+* Tools of the Trade: Linux and SQL
+* Assets, Threats, and Vulnerabilities
+* Sound the Alarm: Detection and Response
+* Automate Cybersecurity Tasks with Python
+* Put It to Work: Prepare for Cybersecurity Jobs
+
+---
+
+## Career Goals
+
+* Begin a career in Security Operations (SOC)
+* Develop expertise in Incident Response and Threat Detection
+* Build practical cybersecurity and automation projects
+* Earn advanced cybersecurity certifications
+* Contribute to cybersecurity communities and open-source projects
+* Explore the intersection of AI and Cybersecurity
+
+---
+
+## Portfolio Purpose
+
+This portfolio demonstrates my ability to investigate cybersecurity incidents, assess security risks, evaluate security controls, perform vulnerability assessments, analyze threats, automate security tasks, and communicate findings through professional documentation.
+
+Each project reflects practical cybersecurity skills developed through hands-on labs, case studies, security investigations, and industry-aligned frameworks.
+
+---
+
+Thank you for visiting my portfolio. I will continue expanding this repository with new projects, certifications, and cybersecurity learning experiences.
